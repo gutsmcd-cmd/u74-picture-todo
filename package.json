@@ -1,0 +1,10 @@
+{
+  "name": "u74-picture-todo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "絵でやること / Picture To-Do — Universe 74. Paste a to-do list and every task becomes a picture card.",
+  "license": "MIT",
+  "scripts": { "dev": "vite", "build": "tsc --noEmit && vite build", "preview": "vite preview" },
+  "devDependencies": { "typescript": "5.9.3", "vite": "6.4.3", "vite-plugin-pwa": "0.21.2" }
+}
